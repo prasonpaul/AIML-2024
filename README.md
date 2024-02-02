@@ -1,2 +1,2 @@
 # AIML-2024
-[lab 01](
+[lab 01](https://github.com/prasonpaul/AIML-2024.git)
