@@ -16,3 +16,4 @@ AIML LAB-08(https://github.com/prasonpaul/AIML-2024/blob/main/AIML%20LAB-08%20.i
 
 AIML LAB-09(https://github.com/prasonpaul/AIML-2024/blob/main/AIML_LAB-09.ipynb)
 
+AIML LAB-10(https://github.com/prasonpaul/AIML-2024/blob/main/AIML%20LAB-10.ipynb)
